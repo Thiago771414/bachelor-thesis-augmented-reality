@@ -1,4 +1,5 @@
 # Augmented Reality Systems — Undergraduate Research (2018)
+**Links:** [PDF](./tcc.pdf) · [Author](#author) · [Methodology](#methodology)
 
 [![Type](https://img.shields.io/badge/Type-Bachelor%20Thesis-informational)](./tcc.pdf)
 [![Topic](https://img.shields.io/badge/Topic-Augmented%20Reality-blue)](#)
