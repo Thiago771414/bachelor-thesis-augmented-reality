@@ -54,7 +54,10 @@ Even though this thesis was written in 2018, it anticipated trends that continue
 
 **Thiago Reis Lima**  
 Bachelor in Software Engineering — UniCesumar  
-Belo Horizonte, Brazil — 2018
+Belo Horizonte, Brazil — 2018  
+
+**Academic Record / Thesis Committee:**  
+[Official Academic Reference (Escavador)](https://www.escavador.com/sobre/691255463/thiago-reis-lima)
 
 ## Keywords
 
